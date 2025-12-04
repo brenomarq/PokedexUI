@@ -1,6 +1,6 @@
 # 📱 PokedexUI
 
-Um aplicativo iOS desenvolvido com SwiftUI e estruturado com Clean Architecture, oferecendo uma UI moderna e uma arquitetura escalável para estudos e boas práticas no ecossistema Apple.
+Um aplicativo iOS desenvolvido com SwiftUI e estruturado com Clean Architecture para estudo de boas práticas, oferecendo uma UI moderna e uma arquitetura escalável.
 
 ## 🚀 Sobre o Projeto
 
